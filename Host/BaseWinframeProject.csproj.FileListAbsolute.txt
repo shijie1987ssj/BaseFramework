@@ -1,0 +1,8 @@
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseWinframeProject\bin\Debug\BaseWinframeProject.exe
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseWinframeProject\bin\Debug\BaseWinframeProject.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseWinframeProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseWinframeProject\obj\x86\Debug\BaseWinframeProject.Properties.Resources.resources
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseWinframeProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseWinframeProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseWinframeProject\obj\x86\Debug\BaseWinframeProject.exe
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseWinframeProject\obj\x86\Debug\BaseWinframeProject.pdb

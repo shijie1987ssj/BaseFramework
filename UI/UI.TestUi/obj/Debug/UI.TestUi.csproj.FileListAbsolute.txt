@@ -1,0 +1,14 @@
+D:\Works\OtherProjcet\BaseWinframeProject\UI\UI.TestUi\bin\Debug\UI.TestUi.dll
+D:\Works\OtherProjcet\BaseWinframeProject\UI\UI.TestUi\bin\Debug\UI.TestUi.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\UI\UI.TestUi\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\UI\UI.TestUi\obj\Debug\UI.TestUi.dll
+D:\Works\OtherProjcet\BaseWinframeProject\UI\UI.TestUi\obj\Debug\UI.TestUi.pdb
+D:\BaseWinframeProject\UI\UI.TestUi\bin\Debug\UI.TestUi.dll
+D:\BaseWinframeProject\UI\UI.TestUi\bin\Debug\UI.TestUi.pdb
+D:\BaseWinframeProject\UI\UI.TestUi\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseWinframeProject\UI\UI.TestUi\obj\Debug\UI.TestUi.dll
+D:\BaseWinframeProject\UI\UI.TestUi\obj\Debug\UI.TestUi.pdb
+D:\BaseWinframeProject\UI\UI.TestUi\obj\Debug\UI.TestUi.Form1.resources
+D:\BaseWinframeProject\UI\UI.TestUi\obj\Debug\GenerateResource.read.1.tlog
+D:\BaseWinframeProject\UI\UI.TestUi\obj\Debug\GenerateResource.write.1.tlog
+D:\BaseWinframeProject\UI\UI.TestUi\obj\Debug\UI.TestUi.dll.licenses

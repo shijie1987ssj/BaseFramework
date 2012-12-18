@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="162c2d7c-fafd-448c-9368-e34dcd9d191a" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="7dce9057-ef6d-4acc-90b4-522d967e48dc" name="DAL&#xD;&#xA;" />
+    <layer Id="636181cd-712e-4a68-bee0-16bc3e123e82" name="BPL">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="ad8d93e7-4a1d-451f-9f4c-3f97df525327" direction="Forward">
+          <layerMoniker Id="7dce9057-ef6d-4acc-90b4-522d967e48dc" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="70f757d1-c8b7-40d7-824a-9958957f0734" name="UI">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="e4e76ad3-a097-4393-a2d4-09065b1256a6" direction="Forward">
+          <layerMoniker Id="636181cd-712e-4a68-bee0-16bc3e123e82" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="ee90e35e-6c82-460f-8a24-62640a784cfe" name="Util" />
+  </layers>
+</layerModel>

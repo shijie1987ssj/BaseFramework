@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerDiagram dslVersion="1.0.0.0" Id="7ddaf117-51ff-4bb3-bbc3-1c7ccc866e4e" absoluteBounds="0, 0, 11, 8.5" name="BaseLayerDiagram">
+  <layerModelMoniker Id="162c2d7c-fafd-448c-9368-e34dcd9d191a" />
+  <nestedChildShapes>
+    <layerShape Id="fc3facd0-c23b-452d-9a43-7554625c258d" absoluteBounds="3.875, 0.875, 2, 0.75" customColor="161, 199, 231">
+      <layerMoniker Id="7dce9057-ef6d-4acc-90b4-522d967e48dc" />
+    </layerShape>
+    <layerShape Id="38c75bec-2dcf-4f0c-8ed6-3ab01fd6b3e4" absoluteBounds="3.875, 2.375, 2, 0.75" customColor="161, 199, 231">
+      <layerMoniker Id="636181cd-712e-4a68-bee0-16bc3e123e82" />
+    </layerShape>
+    <layerShape Id="fdad4c1d-bf28-4450-aeea-ddc6d5a8d7a2" absoluteBounds="3.875, 3.875, 2, 0.75" customColor="161, 199, 231">
+      <layerMoniker Id="70f757d1-c8b7-40d7-824a-9958957f0734" />
+    </layerShape>
+    <dependencyConnector edgePoints="[(4.875 : 2.375); (4.875 : 1.625)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="113, 111, 110">
+      <dependencyFromLayerToLayerMoniker Id="ad8d93e7-4a1d-451f-9f4c-3f97df525327" />
+      <relativeChildShapes />
+      <nodes>
+        <layerShapeMoniker Id="38c75bec-2dcf-4f0c-8ed6-3ab01fd6b3e4" />
+        <layerShapeMoniker Id="fc3facd0-c23b-452d-9a43-7554625c258d" />
+      </nodes>
+    </dependencyConnector>
+    <dependencyConnector edgePoints="[(4.875 : 3.875); (4.875 : 3.125)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="113, 111, 110">
+      <dependencyFromLayerToLayerMoniker Id="e4e76ad3-a097-4393-a2d4-09065b1256a6" />
+      <relativeChildShapes />
+      <nodes>
+        <layerShapeMoniker Id="fdad4c1d-bf28-4450-aeea-ddc6d5a8d7a2" />
+        <layerShapeMoniker Id="38c75bec-2dcf-4f0c-8ed6-3ab01fd6b3e4" />
+      </nodes>
+    </dependencyConnector>
+    <layerShape Id="1a34c0be-8415-4bed-a496-22a35ee59e85" absoluteBounds="0.5, 2.375, 2, 0.75" customColor="161, 199, 231">
+      <layerMoniker Id="ee90e35e-6c82-460f-8a24-62640a784cfe" />
+    </layerShape>
+  </nestedChildShapes>
+</layerDiagram>
