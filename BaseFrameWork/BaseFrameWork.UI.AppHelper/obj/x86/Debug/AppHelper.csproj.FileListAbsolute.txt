@@ -1,0 +1,8 @@
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\AppHelper\bin\Debug\AppHelper.exe
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\AppHelper\bin\Debug\AppHelper.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\AppHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\AppHelper\obj\x86\Debug\AppHelper.Properties.Resources.resources
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\AppHelper\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\AppHelper\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\AppHelper\obj\x86\Debug\AppHelper.exe
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\AppHelper\obj\x86\Debug\AppHelper.pdb

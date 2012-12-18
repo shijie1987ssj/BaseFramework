@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <u_Function_Summary>
+    <Gid>C6E063C3-8E65-4E41-A134-6E73BA5643E7</Gid>
+    <ParentId>00000000-0000-0000-0000-000000000000</ParentId>
+    <FName>我的菜单</FName>
+    <FDescription>我的菜单</FDescription>
+    <FAssembly>C21.SIS.Client.UI.ReportingMgmt</FAssembly> 
+    <FFunctionType>1</FFunctionType>
+    <MethodType>1</MethodType>
+    <ImageAlign>16</ImageAlign>
+    <PathId>SIS\模块项\我的菜单</PathId>
+    <OrderBy>0</OrderBy>
+    <IsActive>1</IsActive>
+  </u_Function_Summary>  
+  <u_Function_Summary>
+    <Gid>804d584f-6886-4936-b27f-1030b178f116</Gid>
+    <ParentId>C6E063C3-8E65-4E41-A134-6E73BA5643E7</ParentId>
+    <FName>测试菜单</FName>
+    <FDescription>测试菜单</FDescription>
+    <FAssembly>UI.TestUi</FAssembly>
+    <FTypeName>UI.TestUi.Form1</FTypeName>
+    <FFunctionType>1</FFunctionType>
+    <MethodType>1</MethodType>
+    <ImageAlign>16</ImageAlign>
+    <PathId>SIS\模块项\我的菜单\测试菜单</PathId>
+    <OrderBy>1</OrderBy>
+    <IsActive>1</IsActive>
+  </u_Function_Summary>    
+</NewDataSet>

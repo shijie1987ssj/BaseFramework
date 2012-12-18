@@ -1,0 +1,15 @@
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\bin\Debug\DAL.BaseProjectDal.dll
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\bin\Debug\DAL.BaseProjectDal.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\obj\Debug\DAL.BaseProjectDal.dll
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\obj\Debug\DAL.BaseProjectDal.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\DAL.BaseProjectDal\bin\Debug\DAL.BaseProjectDal.dll
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\DAL.BaseProjectDal\bin\Debug\DAL.BaseProjectDal.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\DAL.BaseProjectDal\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\DAL.BaseProjectDal\obj\Debug\DAL.BaseProjectDal.dll
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\DAL.BaseProjectDal\obj\Debug\DAL.BaseProjectDal.pdb
+D:\BaseWinframeProject\DAL\DAL.BaseProjectDal\bin\Debug\DAL.BaseProjectDal.dll
+D:\BaseWinframeProject\DAL\DAL.BaseProjectDal\bin\Debug\DAL.BaseProjectDal.pdb
+D:\BaseWinframeProject\DAL\DAL.BaseProjectDal\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseWinframeProject\DAL\DAL.BaseProjectDal\obj\Debug\DAL.BaseProjectDal.dll
+D:\BaseWinframeProject\DAL\DAL.BaseProjectDal\obj\Debug\DAL.BaseProjectDal.pdb

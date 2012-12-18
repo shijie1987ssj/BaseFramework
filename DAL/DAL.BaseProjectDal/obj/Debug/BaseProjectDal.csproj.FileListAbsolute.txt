@@ -1,0 +1,5 @@
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\bin\Debug\BaseProjectDal.dll
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\bin\Debug\BaseProjectDal.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\obj\Debug\BaseProjectDal.dll
+D:\Works\OtherProjcet\BaseWinframeProject\DAL\BaseProjectDal\obj\Debug\BaseProjectDal.pdb

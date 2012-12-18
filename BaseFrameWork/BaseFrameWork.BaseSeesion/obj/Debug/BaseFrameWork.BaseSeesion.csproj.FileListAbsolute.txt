@@ -1,0 +1,9 @@
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.BaseSeesion\bin\Debug\BaseFrameWork.BaseSeesion.dll
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.BaseSeesion\bin\Debug\BaseFrameWork.BaseSeesion.pdb
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.BaseSeesion\bin\Debug\BaseFrameWork.Modle.dll
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.BaseSeesion\bin\Debug\BaseFrameWork.Utility.dll
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.BaseSeesion\bin\Debug\BaseFrameWork.Modle.pdb
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.BaseSeesion\bin\Debug\BaseFrameWork.Utility.pdb
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.BaseSeesion\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.BaseSeesion\obj\Debug\BaseFrameWork.BaseSeesion.dll
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.BaseSeesion\obj\Debug\BaseFrameWork.BaseSeesion.pdb

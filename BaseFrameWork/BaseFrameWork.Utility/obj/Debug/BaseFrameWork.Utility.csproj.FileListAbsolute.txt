@@ -1,0 +1,10 @@
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\bin\Debug\BaseFrameWork.Utility.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\bin\Debug\BaseFrameWork.Utility.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\obj\Debug\BaseFrameWork.Utility.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\obj\Debug\BaseFrameWork.Utility.pdb
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\bin\Debug\BaseFrameWork.Utility.dll
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\bin\Debug\BaseFrameWork.Utility.pdb
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\obj\Debug\BaseFrameWork.Utility.dll
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Utility\obj\Debug\BaseFrameWork.Utility.pdb

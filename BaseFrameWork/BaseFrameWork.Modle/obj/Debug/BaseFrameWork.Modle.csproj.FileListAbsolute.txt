@@ -1,0 +1,14 @@
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\bin\Debug\BaseFrameWork.Modle.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\bin\Debug\BaseFrameWork.Modle.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\obj\Debug\BaseFrameWork.Modle.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\obj\Debug\BaseFrameWork.Modle.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\bin\Debug\BaseFrameWork.Utility.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\bin\Debug\BaseFrameWork.Utility.pdb
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\bin\Debug\BaseFrameWork.Modle.dll
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\bin\Debug\BaseFrameWork.Modle.pdb
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\bin\Debug\BaseFrameWork.Utility.dll
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\bin\Debug\BaseFrameWork.Utility.pdb
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\obj\Debug\BaseFrameWork.Modle.dll
+D:\BaseWinframeProject\BaseFrameWork\BaseFrameWork.Modle\obj\Debug\BaseFrameWork.Modle.pdb

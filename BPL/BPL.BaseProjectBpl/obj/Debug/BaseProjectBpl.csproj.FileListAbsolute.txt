@@ -1,0 +1,5 @@
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\bin\Debug\BaseProjectBpl.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\bin\Debug\BaseProjectBpl.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\obj\Debug\BaseProjectBpl.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\obj\Debug\BaseProjectBpl.pdb

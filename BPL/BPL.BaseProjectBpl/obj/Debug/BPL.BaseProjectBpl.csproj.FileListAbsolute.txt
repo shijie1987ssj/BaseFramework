@@ -1,0 +1,15 @@
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\bin\Debug\BPL.BaseProjectBpl.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\bin\Debug\BPL.BaseProjectBpl.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\obj\Debug\BPL.BaseProjectBpl.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BaseProjectBpl\obj\Debug\BPL.BaseProjectBpl.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BPL.BaseProjectBpl\bin\Debug\BPL.BaseProjectBpl.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BPL.BaseProjectBpl\bin\Debug\BPL.BaseProjectBpl.pdb
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BPL.BaseProjectBpl\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BPL.BaseProjectBpl\obj\Debug\BPL.BaseProjectBpl.dll
+D:\Works\OtherProjcet\BaseWinframeProject\BPL\BPL.BaseProjectBpl\obj\Debug\BPL.BaseProjectBpl.pdb
+D:\BaseWinframeProject\BPL\BPL.BaseProjectBpl\bin\Debug\BPL.BaseProjectBpl.dll
+D:\BaseWinframeProject\BPL\BPL.BaseProjectBpl\bin\Debug\BPL.BaseProjectBpl.pdb
+D:\BaseWinframeProject\BPL\BPL.BaseProjectBpl\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseWinframeProject\BPL\BPL.BaseProjectBpl\obj\Debug\BPL.BaseProjectBpl.dll
+D:\BaseWinframeProject\BPL\BPL.BaseProjectBpl\obj\Debug\BPL.BaseProjectBpl.pdb
